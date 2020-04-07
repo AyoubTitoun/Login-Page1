@@ -1,0 +1,21 @@
+C:\Users\micro\Desktop\ESI4\Maquette projet 2CP\Login page\Login page\bin\Debug\Login page.exe
+C:\Users\micro\Desktop\ESI4\Maquette projet 2CP\Login page\Login page\bin\Debug\Login page.pdb
+C:\Users\micro\Desktop\ESI4\Maquette projet 2CP\Login page\Login page\bin\Debug\Login page.xml
+C:\Users\micro\Desktop\ESI4\Maquette projet 2CP\Login page\Login page\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\micro\Desktop\ESI4\Maquette projet 2CP\Login page\Login page\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\micro\Desktop\ESI4\Maquette projet 2CP\Login page\Login page\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\micro\Desktop\ESI4\Maquette projet 2CP\Login page\Login page\obj\x86\Debug\Login page.vbproj.GenerateResource.Cache
+C:\Users\micro\Desktop\ESI4\Maquette projet 2CP\Login page\Login page\obj\x86\Debug\Login page.exe
+C:\Users\micro\Desktop\ESI4\Maquette projet 2CP\Login page\Login page\obj\x86\Debug\Login page.xml
+C:\Users\micro\Desktop\ESI4\Maquette projet 2CP\Login page\Login page\obj\x86\Debug\Login page.pdb
+C:\Users\micro\Desktop\ESI4\Maquette projet 2CP\Login page\Login page\obj\x86\Debug\Login page.vbprojResolveAssemblyReference.cache
+E:\ESI4\Maquette projet 2CP\Login page\Login page\obj\x86\Debug\Login page.exe
+E:\ESI4\Maquette projet 2CP\Login page\Login page\obj\x86\Debug\Login page.xml
+E:\ESI4\Maquette projet 2CP\Login page\Login page\obj\x86\Debug\Login page.pdb
+E:\ESI4\Maquette projet 2CP\Login page\Login page\bin\Debug\Login page.exe
+E:\ESI4\Maquette projet 2CP\Login page\Login page\bin\Debug\Login page.pdb
+E:\ESI4\Maquette projet 2CP\Login page\Login page\bin\Debug\Login page.xml
+E:\ESI4\Maquette projet 2CP\Login page\Login page\obj\x86\Debug\Login page.vbprojResolveAssemblyReference.cache
+E:\ESI4\Maquette projet 2CP\Login page\Login page\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\ESI4\Maquette projet 2CP\Login page\Login page\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\ESI4\Maquette projet 2CP\Login page\Login page\obj\x86\Debug\Login page.vbproj.GenerateResource.Cache
